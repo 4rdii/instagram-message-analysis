@@ -2,9 +2,9 @@
 
 # Getting Started
 you can use my code to get some insights about your bussiness:
-1- download your conversation history using instagram settings
-2-have python, pandas, mathplotlib installed
-3- 
+    1- download your conversation history using instagram settings
+    2- have python, pandas, mathplotlib installed
+    3- 
  ```git clone https://github.com/4rdii/instagram-message-analysis.git```
  ```cd  instagram-message-analysis ```
 
