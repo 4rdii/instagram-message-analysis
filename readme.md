@@ -1,7 +1,7 @@
 # Instagram message Analysis Project - Salwa Design .Co
 
 # Getting Started
-    you can use my code to get some insights about your bussiness:  
+you can use my code to get some insights about your bussiness:  
     1. download your conversation history using instagram settings
     2. have python, pandas, mathplotlib installed
     3. use the code below to clone the repo in your downloaded folder 
