@@ -1,12 +1,16 @@
 # Instagram message Analysis Project - Salwa Design .Co
 
-# Getting Started
-you can use my code to get some insights about your bussiness:  
-    1. download your conversation history using instagram settings
-    2. have python, pandas, mathplotlib installed
-    3. use the code below to clone the repo in your downloaded folder 
-```git clone https://github.com/4rdii/instagram-message-analysis.git```
-```cd  instagram-message-analysis ```
+# Business Insights with Instagram Data
+
+Utilize this tool to gain insights about your business through your Instagram conversations. Follow these steps:
+
+1. Download your conversation history from Instagram settings.
+2. Ensure that you have Python, along with the Pandas and Matplotlib libraries, installed on your system.
+3. Use the following commands to clone the repository into your downloaded folder:
+```
+git clone https://github.com/4rdii/instagram-message-analysis.git
+cd instagram-message-analysis
+```
 
 
 # Usefull Notes
