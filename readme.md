@@ -1,6 +1,6 @@
 # Instagram message Analysis Project - Salwa Design .Co
 
-# Business Insights with Instagram Data
+## Business Insights with Instagram Data
 
 Utilize this tool to gain insights about your business through your Instagram conversations. Follow these steps:
 
@@ -13,7 +13,7 @@ cd instagram-message-analysis
 ```
 
 
-# Usefull Notes
+### Usefull Notes
  1-Not related to this project /you can also use this documentations to get a API token for instagram message platform
 https://developers.facebook.com/docs/messenger-platform/conversations/
 
